@@ -1,7 +1,5 @@
 # Python---Billiing-System
 
-⭐ STAR Method: Supermarket Billing System (Python)
-
 # Situation:
 Small retailers and supermarkets often face challenges in maintaining accurate bills, applying discounts, and generating clear itemized receipts for customers. A digital, interactive system was required to handle real-time product selection, billing, and discount calculations efficiently.
 
